@@ -40,7 +40,7 @@ software development, and cybersecurity.
 - Git and GitHub
 - VS Code
 - Streamlit
-- SQL (add once you are comfortable using it)
+- SQL 
 
 ---
 
